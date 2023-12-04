@@ -8,22 +8,6 @@ for line in range(len(lines)):
 
 for line in range(len(lines)):
   lines[line] = lines[line].split()
-
-'''
-def rem(lis):
-  bol = False
-  for i in lis:
-    if i == " ":
-      bol = True
-  if bol == False:
-    return lis
-  else:
-    lis.remove(" ")
-    return rem(lis)
-
-for line in lines:
-  line = rem(line)
-'''
   
 points = False
 
