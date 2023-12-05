@@ -52,3 +52,5 @@ for line in range(len(numbers)):
     sco = 0
   
 print(sum(score))
+
+
